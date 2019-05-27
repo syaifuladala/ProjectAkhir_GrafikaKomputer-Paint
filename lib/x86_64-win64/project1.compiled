@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiD:\Kuliah\Grafkom\Project Akhir\lib\x86_64-win64&quot; &quot;-FuD:\Program Files\Lazarus\components\rtticontrols\lib\x86_64-win64\win32&quot; &quot;-FuD:\Program Files\Lazarus\components\ideintf\units\x86_64-win64\win32&quot; &quot;-FuD:\Program Files\Lazarus\components\lazcontrols\lib\x86_64-win64\win32&quot; &quot;-FuD:\Program Files\Lazarus\lcl\units\x86_64-win64\win32&quot; &quot;-FuD:\Program Files\Lazarus\lcl\units\x86_64-win64&quot; &quot;-FuD:\Program Files\Lazarus\components\lazutils\lib\x86_64-win64&quot; &quot;-FuD:\Program Files\Lazarus\packager\units\x86_64-win64&quot; &quot;-FuD:\Kuliah\Grafkom\Project Akhir\&quot; &quot;-FUD:\Kuliah\Grafkom\Project Akhir\lib\x86_64-win64\&quot; &quot;-FED:\Kuliah\Grafkom\Project Akhir\&quot; &quot;-oD:\Kuliah\Grafkom\Project Akhir\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
